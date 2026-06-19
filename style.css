@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+    text-align:center;
+    background:#f0f8ff;
+}
+
+h1{
+    color:blue;
+}
+
+ul{
+    list-style:none;
+}
